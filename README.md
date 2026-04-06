@@ -50,7 +50,7 @@ Xiao Huang<sup>7</sup>
 | | |
 |---|---|
 | :zap: | January 2026: CSTLF manuscript submitted for peer review. |
-| :zap: | January 2026: sKwandaSCD\_V1 dataset and model available [[here](https://github.com/BoazGithub/CSTLF_V1)]. |
+| :zap: | January 2026: sKwandaSCD\_V1 dataset and model will be available upon review finals. |
 
 ---
 
