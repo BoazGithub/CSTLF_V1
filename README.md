@@ -49,8 +49,8 @@ Xiao Huang<sup>7</sup>
 
 | | |
 |---|---|
-| :zap: | January 2026: CSTLF manuscript submitted for peer review. |
-| :zap: | January 2026: sKwandaSCD\_V1 dataset and model will be available upon review finals. |
+| :zap: | April 2026: CSTLF manuscript submitted for peer review. |
+| :zap: | April 2026: sKwandaSCD\_V1 dataset and model will be available upon review finals. |
 
 ---
 
