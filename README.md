@@ -69,8 +69,8 @@ CSTLF and the **sKwandaSCD\_V1** dataset (Nyagatare, Kigali) can be accessed [[h
 > of CNN, LSTM, and Transformer branches to resolve spatial heterogeneity and
 > temporal dependencies in high-resolution remote sensing imagery.
 
-[CSTLF_framework_design4.pdf](https://github.com/user-attachments/files/26508141/CSTLF_framework_design4.pdf)
----
+[CSTLF_framework_design4.pdf](https://github.com/user-attachments/files/26508225/CSTLF_framework_design4.pdf)
+
 
 ## Requirements
 
