@@ -1,4 +1,4 @@
-# <h1 align="center">  <b>CSTLF: Cross-Spatio-Temporal Learning Framework for Weakly Supervised Remote Sensing Change Detection </b>
+# <h1 align="center">  <b>CSTLF: From Asymmetric Bi-Temporal Encoding to Remote Sensing Semantic Transition Mapping under Weak Supervision </b>
 
 
 
@@ -12,7 +12,7 @@
 
 ## Updates
 
-| :zap:          | January, 2026: CSTLF Framework has been finalized for publication in IEEE Transactions on Geoscience and Remote Sensing. |
+| :zap:          | January, 2026: CSTLF Framework has been submitted to ISPRS Journal of Photogrammetry and Remote Sensing for review. |
 | --- | --- |
 
 
