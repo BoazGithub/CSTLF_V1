@@ -314,3 +314,4 @@ Remote Sensing (LIESMARS), **Wuhan University**. The authors thank the
 National Land Authority of Rwanda (NLA), ESA, and USGS for providing
 satellite imagery and reference datasets, and the providers of the SECOND
 and LsSCD-Ex benchmarks for enabling rigorous comparative evaluation.
+
